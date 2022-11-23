@@ -1,4 +1,4 @@
-## KIM IDO
+## Slow and steady wins the race 🐢
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-ido&theme=gruvbox&show_icons=true)
 
