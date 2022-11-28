@@ -1,8 +1,8 @@
 ## Slow and steady wins the race 🐢
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-ido&theme=gruvbox&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=idojiro&theme=gruvbox&show_icons=true)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ido987)](https://solved.ac/ido987/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=idojiro)](https://solved.ac/ido987/)
 ---
 
 <!--
