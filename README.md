@@ -1,4 +1,4 @@
-## 김이도 (Kim, Ido)
+## 김이도
 
 ### Slow and steady wins the race 🐢
 
