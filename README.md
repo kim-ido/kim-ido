@@ -1,5 +1,3 @@
-## 김이도
-
 ### Slow and steady wins the race 🐢
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimidokr&theme=gruvbox&show_icons=true)
